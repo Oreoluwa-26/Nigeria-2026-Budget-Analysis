@@ -1,0 +1,275 @@
+budget_year,currency,head_no,line_item,budget_part,part_label,expenditure_type,sector,sub_sector,capital_nature,is_health_eligible,amount_ngn
+2026,NGN,1,FEDERAL GOVERNMENT SHARE OF MAIN POOL,PART A,FGN Share of Gross Federation Revenues,Revenue,Revenue,Federation Account - Main Pool,,False,22053289632020
+2026,NGN,2,FEDERAL GOVERNMENT SHARE OF VAT POOL,PART A,FGN Share of Gross Federation Revenues,Revenue,Revenue,Federation Account - VAT Pool,,False,995827773860
+2026,NGN,3,FEDERAL GOVERNMENT SHARE OF STAMP DUTY,PART A,FGN Share of Gross Federation Revenues,Revenue,Revenue,Federation Account - Stamp Duty,,False,45607009653
+2026,NGN,4,OIL & GAS DEDUCTIONS,PART B,Deductions,Revenue,Revenue,Deductions - Oil & Gas,,False,-199619102848
+2026,NGN,5,NON-OIL DEDUCTION,PART B,Deductions,Revenue,Revenue,Deductions - Non-Oil,,False,-1257685521941
+2026,NGN,6,"TRANSFER TO FCT, ECOLOGICAL FUND, STATUTORY STABILIZATION, AND DEVELOPMENT OF NATURAL RESOURCES",PART B,Deductions,Revenue,Revenue,Deductions - Special Transfers,,False,-1628422570000
+2026,NGN,10,TAX REVENUES,PART D,Independent Revenues,Revenue,Revenue,Independent Revenue - Tax,,False,124254290360
+2026,NGN,11,NON-TAX REVENUES,PART D,Independent Revenues,Revenue,Revenue,Independent Revenue - Non-Tax,,False,845977000000
+2026,NGN,12,OPERATING SURPLUS,PART D,Independent Revenues,Revenue,Revenue,Independent Revenue - Operating Surplus,,False,3337102213362
+2026,NGN,13,NLNG DIVIDEND,PART E,Other Dividends,Revenue,Revenue,Dividends,,False,135135066414
+2026,NGN,14,BANK OF INDUSTRY (BOI),PART E,Other Dividends,Revenue,Revenue,Dividends,,False,0
+2026,NGN,15,DEVELOPMENT BANK OF NIGERIA,PART E,Other Dividends,Revenue,Revenue,Dividends,,False,57971870973
+2026,NGN,16,BANK OF AGRICULTURE,PART E,Other Dividends,Revenue,Revenue,Dividends,,False,51045199293
+2026,NGN,17,GALAXY BACKBONE,PART E,Other Dividends,Revenue,Revenue,Dividends,,False,3552626680
+2026,NGN,18,FOREIGN AID / GRANT (IN CASH),PART F,Aid and Grants,Revenue,Revenue,Aid & Grants,,False,1367151828000
+2026,NGN,19,SPECIAL LEVIES/ACCOUNTS,PART G,Special Funds/Accounts,Revenue,Revenue,Special Levies,,False,300000000000
+2026,NGN,21,GOVERNMENT-OWNED ENTERPRISES,PART H,GOEs Revenue,Revenue,Revenue,GOEs - Gross,,False,9400398417348
+2026,NGN,22,GOEs OPERATING SURPLUS (80% CAPTURED IN INDEPENDENT REVENUE),PART H,GOEs Revenue,Revenue,Revenue,GOEs - Operating Surplus Deduction,,False,-4419520452217
+2026,NGN,23,DEVELOPMENT LEVY,PART I,Others,Revenue,Revenue,Development Levy,,False,1899517808898
+2026,NGN,24,SIGNATURE BONUS / RENEWALS,PART I,Others,Revenue,Revenue,Signature Bonus,,False,0
+2026,NGN,25,DOMESTIC RECOVERIES + ASSETS + FINES,PART I,Others,Revenue,Revenue,Domestic Recoveries,,False,22679465942
+2026,NGN,26,SHARE OF OIL PRICE ROYALTY,PART I,Others,Revenue,Revenue,Oil Price Royalty,,False,65054483752
+2026,NGN,27,NATIONAL JUDICIAL COUNCIL,PART J,Statutory Transfers,Statutory Transfer,Governance & Justice,Judiciary,,False,341625739236
+2026,NGN,28,NIGER-DELTA DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,Niger Delta,,False,618127393490
+2026,NGN,29,SOUTH-EAST DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,South East,,False,140000000000
+2026,NGN,30,NORTH-WEST DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,North West,,False,145606921550
+2026,NGN,31,SOUTH-WEST DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,South West,,False,140000000000
+2026,NGN,32,SOUTH-SOUTH DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,South South,,False,140000000000
+2026,NGN,33,NORTH CENTRAL DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,North Central,,False,140000000000
+2026,NGN,34,UNIVERSAL BASIC EDUCATION COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Education,Basic Education,,False,429818822774
+2026,NGN,35,NATIONAL ASSEMBLY,PART J,Statutory Transfers,Statutory Transfer,Governance & Justice,Legislature,,False,344852880669
+2026,NGN,36,PUBLIC COMPLAINTS COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Governance & Justice,Accountability Bodies,,False,29460000000
+2026,NGN,37,INDEPENDENT NATIONAL ELECTORAL COMMISSION (INEC),PART J,Statutory Transfers,Statutory Transfer,Governance & Justice,Electoral Body,,False,1013778401602
+2026,NGN,38,NATIONAL HUMAN RIGHTS COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Governance & Justice,Human Rights,,False,20000000000
+2026,NGN,39,NORTH EAST DEVELOPMENT COMMISSION,PART J,Statutory Transfers,Statutory Transfer,Regional Development,North East,,False,244066466734
+2026,NGN,40,BASIC HEALTH CARE PROVISION FUND,PART J,Statutory Transfers,Statutory Transfer,Health,Primary Health Care,,True,214909411387
+2026,NGN,41,NASENI,PART J,Statutory Transfers,Statutory Transfer,Science & Technology,Research & Innovation,,False,135135066414
+2026,NGN,42,DOMESTIC DEBTS (INCLUDING WAYS AND MEANS),PART K,Debt Service,Debt Service,Debt Obligation,Domestic Debt,,False,10160856017502
+2026,NGN,43,FOREIGN DEBTS,PART K,Debt Service,Debt Service,Debt Obligation,Foreign Debt,,False,5359965298037
+2026,NGN,44,SINKING FUND TO RETIRE MATURING PROMISSORY NOTES,PART K,Debt Service,Debt Service,Debt Obligation,Sinking Fund,,False,388540316118
+2026,NGN,45,PRESIDENCY,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Presidency,,False,119415458345
+2026,NGN,46,MINISTRY OF DEFENCE,PART L,Recurrent Non-Debt,Recurrent,Security & Defence,Defence,,False,2689918643400
+2026,NGN,47,MINISTRY OF FOREIGN AFFAIRS,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Foreign Affairs,,False,287900088184
+2026,NGN,48,FEDERAL MINISTRY OF INFORMATION AND NATIONAL ORIENTATION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Information,,False,75490874550
+2026,NGN,49,"FEDERAL MINISTRY OF ART, CULTURE AND CREATIVE ECONOMY",PART L,Recurrent Non-Debt,Recurrent,Social Development,Arts & Culture,,False,31590919086
+2026,NGN,50,FEDERAL MINISTRY OF TOURISM,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Tourism,,False,6704697238
+2026,NGN,51,MINISTRY OF INTERIOR,PART L,Recurrent Non-Debt,Recurrent,Security & Defence,Interior,,False,661746665261
+2026,NGN,52,OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Civil Service,,False,17170845766
+2026,NGN,53,AUDITOR GENERAL FOR THE FEDERATION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,11026145807
+2026,NGN,54,MINISTRY OF POLICE AFFAIRS,PART L,Recurrent Non-Debt,Recurrent,Security & Defence,Police,,False,1269448286449
+2026,NGN,55,"FEDERAL MINISTRY OF COMMUNICATIONS, INNOVATION AND DIGITAL ECONOMY",PART L,Recurrent Non-Debt,Recurrent,Economic Development,ICT,,False,33907757701
+2026,NGN,56,NATIONAL SECURITY ADVISER,PART L,Recurrent Non-Debt,Recurrent,Security & Defence,National Security,,False,377215191188
+2026,NGN,57,INFRASTRUCTURE CONCESSION REGULATORY COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Infrastructure Regulation,,False,2032524534
+2026,NGN,58,SECRETARY TO THE GOVERNMENT OF THE FEDERATION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,SGF Office,,False,179494670348
+2026,NGN,59,FEDERAL MINISTRY OF SPECIAL DUTIES & INTER-GOVERNMENTAL AFFAIRS,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Special Duties,,False,8955992838
+2026,NGN,60,FEDERAL MINISTRY OF LIVESTOCK,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Agriculture & Livestock,,False,18043889278
+2026,NGN,61,FEDERAL MINISTRY OF AGRICULTURE AND FOOD SECURITY,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Agriculture & Livestock,,False,147521140589
+2026,NGN,62,FEDERAL MINISTRY OF FINANCE,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Finance,,False,64564315210
+2026,NGN,63,FEDERAL MINISTRY OF BUDGET AND ECONOMIC PLANNING,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Budget & Planning,,False,23362657076
+2026,NGN,64,"FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",PART L,Recurrent Non-Debt,Recurrent,Economic Development,Trade & Industry,,False,32037049503
+2026,NGN,65,FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT,PART L,Recurrent Non-Debt,Recurrent,Social Development,Labour,,False,33841003554
+2026,NGN,66,"FEDERAL MINISTRY OF INNOVATION, SCIENCE AND TECHNOLOGY",PART L,Recurrent Non-Debt,Recurrent,Science & Technology,Innovation & Science,,False,93416870177
+2026,NGN,67,FEDERAL MINISTRY OF TRANSPORTATION,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,Transportation,,False,34530060537
+2026,NGN,68,FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Marine,,False,12803243596
+2026,NGN,69,FEDERAL MINISTRY OF AVIATION AND AEROSPACE,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,Aviation,,False,17117174797
+2026,NGN,70,FEDERAL MINISTRY OF POWER,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,Power & Energy,,False,10379423798
+2026,NGN,71,MINISTRY OF PETROLEUM RESOURCES,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Petroleum,,False,58068240861
+2026,NGN,72,FEDERAL MINISTRY OF STEEL DEVELOPMENT,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Steel & Industry,,False,14671240559
+2026,NGN,73,FEDERAL MINISTRY OF SOLID MINERALS DEVELOPMENT,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Solid Minerals,,False,8804874140
+2026,NGN,74,FEDERAL MINISTRY OF WORKS,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,Works,,False,48109697975
+2026,NGN,75,FEDERAL MINISTRY OF HOUSING AND URBAN DEVELOPMENT,PART L,Recurrent Non-Debt,Recurrent,Social Development,Housing,,False,11183044076
+2026,NGN,76,"NATIONAL SALARIES, INCOMES AND WAGES COMMISSION",PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Civil Service,,False,3218731278
+2026,NGN,77,FISCAL RESPONSIBILITY COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,1143629000
+2026,NGN,78,FEDERAL MINISTRY OF WATER RESOURCES AND SANITATION,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,Water & Sanitation,,False,23204617594
+2026,NGN,79,FEDERAL MINISTRY OF JUSTICE,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Justice,,False,86689404047
+2026,NGN,80,INDEPENDENT CORRUPT PRACTICES AND RELATED OFFENCES COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,15915919825
+2026,NGN,81,FEDERAL CAPITAL TERRITORY ADMINISTRATION,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,FCT,,False,0
+2026,NGN,82,FEDERAL MINISTRY OF NIGER DELTA DEVELOPMENT,PART L,Recurrent Non-Debt,Recurrent,Regional Development,Niger Delta,,False,9812233441
+2026,NGN,83,FEDERAL MINISTRY OF YOUTH,PART L,Recurrent Non-Debt,Recurrent,Social Development,Youth,,False,498065645142
+2026,NGN,84,FEDERAL MINISTRY OF SPORTS DEVELOPMENT,PART L,Recurrent Non-Debt,Recurrent,Social Development,Sports,,False,21569723184
+2026,NGN,85,FEDERAL MINISTRY OF WOMEN AFFAIRS,PART L,Recurrent Non-Debt,Recurrent,Social Development,Women Affairs,,False,3916651560
+2026,NGN,86,FEDERAL MINISTRY OF EDUCATION,PART L,Recurrent Non-Debt,Recurrent,Education,Education,,False,1377361093365
+2026,NGN,87,FEDERAL MINISTRY OF HEALTH AND SOCIAL WELFARE,PART L,Recurrent Non-Debt,Recurrent,Health,Health & Social Welfare,,True,1010234974390
+2026,NGN,88,FEDERAL MINISTRY OF ENVIRONMENT,PART L,Recurrent Non-Debt,Recurrent,Infrastructure,Environment,,False,57954766418
+2026,NGN,89,NATIONAL POPULATION COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Population,,False,19164891752
+2026,NGN,90,MINISTRY OF HUMANITARIAN AFFAIRS AND POVERTY ALLEVIATION,PART L,Recurrent Non-Debt,Recurrent,Social Development,Humanitarian,,False,16883432828
+2026,NGN,91,CODE OF CONDUCT BUREAU,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,6474169155
+2026,NGN,92,CODE OF CONDUCT TRIBUNAL,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,1947300311
+2026,NGN,93,FEDERAL CHARACTER COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,6122148352
+2026,NGN,94,FEDERAL CIVIL SERVICE COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Civil Service,,False,2095158653
+2026,NGN,95,POLICE SERVICE COMMISSION,PART L,Recurrent Non-Debt,Recurrent,Security & Defence,Police,,False,1982758923
+2026,NGN,96,"REVENUE MOBILIZATION, ALLOCATION, AND FISCAL COMMISSION",PART L,Recurrent Non-Debt,Recurrent,Governance & Justice,Accountability Bodies,,False,4068830398
+2026,NGN,GOE-R,GOVERNMENT OWNED ENTERPRISES - RECURRENT,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Government Enterprises,,False,2019617780421
+2026,NGN,DL-R,DEVELOPMENT LEVY - RECURRENT,PART L,Recurrent Non-Debt,Recurrent,Economic Development,Development Levy,,False,94975890445
+2026,NGN,97,CIVILIAN PENSION - GRATUITIES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,109765983
+2026,NGN,98,CIVILIAN PENSION - PENSIONS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,60335434421
+2026,NGN,99,CIVILIAN PENSION - RUNNING COST,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,1017000432
+2026,NGN,100,CIVILIAN PENSION - UNFUNDED LIABILITIES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,2500000000
+2026,NGN,101,CIVILIAN PENSION - INCREMENT ARREARS 2024,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,30576456010
+2026,NGN,102,MILITARY PENSIONS - PENSIONS AND GRATUITIES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,237247951950
+2026,NGN,103,MILITARY PENSIONS - EXPECTED RETIREES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,130381048588
+2026,NGN,104,MILITARY PENSIONS - DEATH BENEFITS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,98532668218
+2026,NGN,105,MILITARY PENSIONS - ADMINISTRATIVE CHARGES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,3089266951
+2026,NGN,107,MILITARY PENSIONS - MEDICAL RETIREES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,7568116594
+2026,NGN,108,MILITARY PENSIONS - GRATUITIES ARREARS 2019-2021,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,3961693922
+2026,NGN,109,MILITARY PENSIONS - PENSION ARREARS 2019-2021,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,2274979410
+2026,NGN,110,MILITARY PENSIONS - DEATH BENEFIT ARREARS 2019-2021,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Military Pensions,,False,2984239734
+2026,NGN,111,NHIS - MILITARY RETIREES INCLUDING ARREARS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Health,Military Health,,True,3571846330
+2026,NGN,112,DIA CIVILIAN STAFF PENSION AND GRATUITIES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Intelligence Pensions,,False,6610178920
+2026,NGN,116,DEPARTMENT OF STATE SECURITY - PENSIONS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Security Pensions,,False,28611520421
+2026,NGN,120,NIGERIA INTELLIGENCE AGENCY - PENSIONS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Intelligence Pensions,,False,15450070461
+2026,NGN,121,NIGERIA INTELLIGENCE AGENCY - RUNNING COST,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Intelligence Pensions,,False,1000000000
+2026,NGN,122,NIGERIA INTELLIGENCE AGENCY - GRATUITY,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Intelligence Pensions,,False,7087951972
+2026,NGN,123,PENSION TRANSITIONAL ARRANGEMENT DIRECTORATE,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Transitional Pensions,,False,23287656970
+2026,NGN,124,POLICE PENSIONS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Police Pensions,,False,18319909320
+2026,NGN,125,POLICE PENSION RUNNING COST,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Police Pensions,,False,213563654
+2026,NGN,126,CUSTOMS/IMMIGRATION/PRISONS PENSIONS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Customs & Immigration Pensions,,False,15555890712
+2026,NGN,127,CUSTOMS/IMMIGRATION/PRISONS PENSION RUNNING COST,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Customs & Immigration Pensions,,False,222293420
+2026,NGN,128,CUSTOMS/IMMIGRATION/PRISONS GRATUITIES & DEATH BENEFITS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Customs & Immigration Pensions,,False,80126888
+2026,NGN,129,PENSION FOR RETIRED CGs AND DCGs,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Customs & Immigration Pensions,,False,2551301155
+2026,NGN,130,UNIVERSITIES PENSION INCLUDING ARREARS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,University Pensions,,False,13120357752
+2026,NGN,131,PARASTATALS PENSION AND RAILWAY - PENSIONS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Parastatals Pensions,,False,105661866691
+2026,NGN,132,PARASTATALS PENSION - RUNNING COST,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Parastatals Pensions,,False,1732210737
+2026,NGN,133,PARASTATALS PENSION - UNFUNDED LIABILITIES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Parastatals Pensions,,False,87292298107
+2026,NGN,134,NELMCO PENSIONS/ARREARS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,NELMCO Pensions,,False,17548870129
+2026,NGN,135,PENCOM - GRATUITY TO CIVIL SERVANTS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,PENCOM,,False,32900000000
+2026,NGN,136,PENCOM - PAYMENT INTO REDEMPTION FUND,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,PENCOM,,False,62249182917
+2026,NGN,137,PENCOM - PENSION PROTECTION FUND,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,PENCOM,,False,233714337504
+2026,NGN,138,PENCOM - PENSION INCREASE 2024 ADJUSTMENT,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,PENCOM,,False,67722681600
+2026,NGN,139,PENCOM - EMPLOYER SHORTFALL TERTIARY 2017-2021,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,PENCOM,,False,16170030956
+2026,NGN,140,BENEFITS OF RETIRED PROFESSORS 2012-2016 SHORTFALL,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,University Pensions,,False,14283196861
+2026,NGN,141,BENEFITS OF RETIRED HEADS OF SERVICE AND PERM SECS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,10505814220
+2026,NGN,142,SEVERANCE BENEFITS - RETIRED HEADS OF GOVT AGENCIES,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,1000000000
+2026,NGN,143,ENTITLEMENTS OF FORMER PRESIDENTS AND VICE PRESIDENTS,PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Civilian Pensions,,False,2300000000
+2026,NGN,144,OUTSTANDING RETIREMENT BENEFITS FOR EFCC (2023-2025),PART L,Recurrent Non-Debt - Pensions,Recurrent,Pensions & Gratuities,Security Pensions,,False,7158295883
+2026,NGN,145,PAYMENT OF OUTSTANDING DEATH BENEFIT TO CIVIL SERVANTS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Pensions & Gratuities,Death Benefits,,False,4266257523
+2026,NGN,146,PAYMENT OF OUTSTANDING DEATH BENEFIT TO POLICE,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Pensions & Gratuities,Death Benefits,,False,5000000000
+2026,NGN,147,GROUP LIFE ASSURANCE FOR ALL MDAs,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Insurance,,False,17313619734
+2026,NGN,148,INSURANCE OF FGN SENSITIVE ASSETS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Insurance,,False,12420122743
+2026,NGN,149,PAYMENT FOR PROMOTION AND SALARY ARREARS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Salary Arrears,,False,150000000000
+2026,NGN,150,ARREARS DUE TO MINIMUM WAGE RELATED ADJUSTMENTS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Salary Arrears,,False,845284513819
+2026,NGN,151,MILITARY OPERATIONS: LAFIYA DOLE & OTHER OPERATIONS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Security & Defence,Military Operations,,False,100000000000
+2026,NGN,152,SETTLEMENT OF MDAs ELECTRICITY BILLS DEBTS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Infrastructure,Utility Arrears,,False,15000000000
+2026,NGN,153,IPPIS CAPTURING/MONITORING,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,ICT Systems,,False,1000000000
+2026,NGN,154,MARGIN FOR INCREASES IN COSTS AND RECURRENT ADJUSTMENT,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Contingency,,False,12000000000
+2026,NGN,155,PRESIDENTIAL AMNESTY PROGRAMME,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Security & Defence,Amnesty Programme,,False,115000000000
+2026,NGN,156,SERVICE WIDE TRAINING OF BUDGET/PLANNING OFFICERS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Capacity Building,,False,2000000000
+2026,NGN,157,NATIONAL SOCIAL INVESTMENT PROGRAMME AGENCY - RECURRENT,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Social Development,Social Investment,,False,200000000000
+2026,NGN,158,CONTINGENCY (RECURRENT),PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Contingency,,False,36000000000
+2026,NGN,159,INTERNATIONAL SPORTING COMPETITIONS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Social Development,Sports,,False,5000000000
+2026,NGN,160,TSA OPERATIONS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Financial Management,,False,2000000000
+2026,NGN,161,CONTRIBUTIONS TO INTERNATIONAL ORGANISATIONS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,International Obligations,,False,52945136900
+2026,NGN,162,GAVI/IMMUNISATION,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Health,Immunisation,,True,250959396330
+2026,NGN,163,MALARIA VACCINATION OF INFANTS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Health,Vaccines & Malaria,,True,12547969830
+2026,NGN,164,HUMAN CAPITAL DEVELOPMENT PROGRAMME SECRETARIAT,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Social Development,Human Capital,,False,2240000000
+2026,NGN,165,PRESIDENTIAL WOMENS HEALTH TRANSFORMATION INITIATIVE - RECURRENT,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Health,Womens Health,,True,1540000000
+2026,NGN,166,POLICE OPERATIONS FUND,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Security & Defence,Police Operations,,False,50000000000
+2026,NGN,167,NIGERIA SECURITY AND CIVIL DEFENCE CORPS - SPECIAL OPERATIONS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Security & Defence,Internal Security,,False,15000000000
+2026,NGN,168,DSS - SPECIAL OPERATIONS FUND,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Security & Defence,Intelligence,,False,30000000000
+2026,NGN,169,NATIONAL POVERTY REDUCTION WITH GROWTH STRATEGY - RECURRENT,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Social Development,Poverty Reduction,,False,100000000000
+2026,NGN,170,PROVISION FOR CORP MEMBERS NHIS,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Health,NYSC Health,,True,5000000000
+2026,NGN,171,OFFICE OF SPECIAL ADVISER ON POLICY AND COORDINATION,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Policy Coordination,,False,2730255000
+2026,NGN,172,NATIONAL HOME GROWN SCHOOL FEEDING PROGRAMME,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Social Development,School Feeding,,False,100000000000
+2026,NGN,173,NEW MDAs TAKE-OFF GRANT (RECURRENT) - HEALTH AND EDUCATION,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Health,New MDAs Health,,True,41121042850
+2026,NGN,174,PRESIDENTIAL REVENUE MONITORING & RECONCILIATION COMMITTEE - RECURRENT,PART L,Recurrent Non-Debt - CRF Charges,Recurrent,Governance & Justice,Revenue Monitoring,,False,5778000000
+2026,NGN,175,PRESIDENCY,PART M,Capital Expenditure,Capital,Governance & Justice,Presidency,New Investment,False,100549795951
+2026,NGN,176,MINISTRY OF DEFENCE,PART M,Capital Expenditure,Capital,Security & Defence,Defence,New Investment,False,464474756894
+2026,NGN,177,MINISTRY OF FOREIGN AFFAIRS,PART M,Capital Expenditure,Capital,Governance & Justice,Foreign Affairs,New Investment,False,56135718476
+2026,NGN,178,FEDERAL MINISTRY OF INFORMATION AND NATIONAL ORIENTATION,PART M,Capital Expenditure,Capital,Governance & Justice,Information,New Investment,False,22672347769
+2026,NGN,179,"FEDERAL MINISTRY OF ART, CULTURE AND CREATIVE ECONOMY",PART M,Capital Expenditure,Capital,Social Development,Arts & Culture,New Investment,False,28231308128
+2026,NGN,180,FEDERAL MINISTRY OF TOURISM,PART M,Capital Expenditure,Capital,Economic Development,Tourism,New Investment,False,3712551109
+2026,NGN,181,MINISTRY OF INTERIOR,PART M,Capital Expenditure,Capital,Security & Defence,Interior,New Investment,False,34670127337
+2026,NGN,182,OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION,PART M,Capital Expenditure,Capital,Governance & Justice,Civil Service,New Investment,False,9771406129
+2026,NGN,183,AUDITOR GENERAL FOR THE FEDERATION,PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,4854988681
+2026,NGN,184,MINISTRY OF POLICE AFFAIRS,PART M,Capital Expenditure,Capital,Security & Defence,Police,New Investment,False,60913608670
+2026,NGN,185,"FEDERAL MINISTRY OF COMMUNICATIONS, INNOVATION AND DIGITAL ECONOMY",PART M,Capital Expenditure,Capital,Economic Development,ICT,New Investment,False,20652484684
+2026,NGN,186,NATIONAL SECURITY ADVISER,PART M,Capital Expenditure,Capital,Security & Defence,National Security,New Investment,False,286904549354
+2026,NGN,187,INFRASTRUCTURE CONCESSION REGULATORY COMMISSION,PART M,Capital Expenditure,Capital,Economic Development,Infrastructure Regulation,New Investment,False,748400892
+2026,NGN,188,SECRETARY TO THE GOVERNMENT OF THE FEDERATION,PART M,Capital Expenditure,Capital,Governance & Justice,SGF Office,New Investment,False,113526967302
+2026,NGN,189,FEDERAL MINISTRY OF SPECIAL DUTIES & INTER-GOVERNMENTAL AFFAIRS,PART M,Capital Expenditure,Capital,Governance & Justice,Special Duties,New Investment,False,4825111318
+2026,NGN,190,FEDERAL MINISTRY OF LIVESTOCK,PART M,Capital Expenditure,Capital,Economic Development,Agriculture & Livestock,New Investment,False,63142282213
+2026,NGN,191,FEDERAL MINISTRY OF AGRICULTURE AND FOOD SECURITY,PART M,Capital Expenditure,Capital,Economic Development,Agriculture & Livestock,New Investment,False,1132325647057
+2026,NGN,192,FEDERAL MINISTRY OF FINANCE,PART M,Capital Expenditure,Capital,Governance & Justice,Finance,New Investment,False,625057574485
+2026,NGN,193,FEDERAL MINISTRY OF BUDGET AND ECONOMIC PLANNING,PART M,Capital Expenditure,Capital,Governance & Justice,Budget & Planning,New Investment,False,27065280715
+2026,NGN,194,"FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",PART M,Capital Expenditure,Capital,Economic Development,Trade & Industry,New Investment,False,55399199578
+2026,NGN,195,FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT,PART M,Capital Expenditure,Capital,Social Development,Labour,New Investment,False,149791949426
+2026,NGN,196,"FEDERAL MINISTRY OF INNOVATION, SCIENCE AND TECHNOLOGY",PART M,Capital Expenditure,Capital,Science & Technology,Innovation & Science,New Investment,False,745257210152
+2026,NGN,197,FEDERAL MINISTRY OF TRANSPORTATION,PART M,Capital Expenditure,Capital,Infrastructure,Transportation,New Investment,False,397768224488
+2026,NGN,198,FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY,PART M,Capital Expenditure,Capital,Economic Development,Marine,New Investment,False,136438709047
+2026,NGN,199,FEDERAL MINISTRY OF AVIATION AND AEROSPACE,PART M,Capital Expenditure,Capital,Infrastructure,Aviation,New Investment,False,70192789683
+2026,NGN,200,FEDERAL MINISTRY OF POWER,PART M,Capital Expenditure,Capital,Infrastructure,Power & Energy,New Investment,False,410013108214
+2026,NGN,201,MINISTRY OF PETROLEUM RESOURCES,PART M,Capital Expenditure,Capital,Economic Development,Petroleum,New Investment,False,13529745186
+2026,NGN,202,FEDERAL MINISTRY OF STEEL DEVELOPMENT,PART M,Capital Expenditure,Capital,Economic Development,Steel & Industry,New Investment,False,6849038702
+2026,NGN,203,FEDERAL MINISTRY OF SOLID MINERALS DEVELOPMENT,PART M,Capital Expenditure,Capital,Economic Development,Solid Minerals,New Investment,False,147530456635
+2026,NGN,204,FEDERAL MINISTRY OF WORKS,PART M,Capital Expenditure,Capital,Infrastructure,Works,New Investment,False,3068778665452
+2026,NGN,205,FEDERAL MINISTRY OF HOUSING AND URBAN DEVELOPMENT,PART M,Capital Expenditure,Capital,Social Development,Housing,New Investment,False,95624545275
+2026,NGN,206,"NATIONAL SALARIES, INCOMES AND WAGES COMMISSION",PART M,Capital Expenditure,Capital,Governance & Justice,Civil Service,New Investment,False,1454429890
+2026,NGN,207,FISCAL RESPONSIBILITY COMMISSION,PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,848043501
+2026,NGN,208,FEDERAL MINISTRY OF WATER RESOURCES AND SANITATION,PART M,Capital Expenditure,Capital,Infrastructure,Water & Sanitation,New Investment,False,411325064757
+2026,NGN,209,FEDERAL MINISTRY OF JUSTICE,PART M,Capital Expenditure,Capital,Governance & Justice,Justice,New Investment,False,43855152490
+2026,NGN,210,INDEPENDENT CORRUPT PRACTICES AND RELATED OFFENCES COMMISSION,PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,5204476168
+2026,NGN,211,FEDERAL CAPITAL TERRITORY ADMINISTRATION,PART M,Capital Expenditure,Capital,Infrastructure,FCT,New Investment,False,460737525182
+2026,NGN,212,FEDERAL MINISTRY OF NIGER DELTA DEVELOPMENT,PART M,Capital Expenditure,Capital,Regional Development,Niger Delta,New Investment,False,17417686998
+2026,NGN,213,FEDERAL MINISTRY OF YOUTH,PART M,Capital Expenditure,Capital,Social Development,Youth,New Investment,False,20197216637
+2026,NGN,214,FEDERAL MINISTRY OF SPORTS DEVELOPMENT,PART M,Capital Expenditure,Capital,Social Development,Sports,New Investment,False,188463295467
+2026,NGN,215,FEDERAL MINISTRY OF WOMEN AFFAIRS,PART M,Capital Expenditure,Capital,Social Development,Women Affairs,New Investment,False,43224108798
+2026,NGN,216,FEDERAL MINISTRY OF EDUCATION,PART M,Capital Expenditure,Capital,Education,Education,New Investment,False,560937091090
+2026,NGN,217,FEDERAL MINISTRY OF HEALTH AND SOCIAL WELFARE,PART M,Capital Expenditure,Capital,Health,Health & Social Welfare,New Investment,True,898325019301
+2026,NGN,218,FEDERAL MINISTRY OF ENVIRONMENT,PART M,Capital Expenditure,Capital,Infrastructure,Environment,New Investment,False,61190136834
+2026,NGN,219,NATIONAL POPULATION COMMISSION,PART M,Capital Expenditure,Capital,Governance & Justice,Population,New Investment,False,12794316285
+2026,NGN,220,MINISTRY OF HUMANITARIAN AFFAIRS AND POVERTY ALLEVIATION,PART M,Capital Expenditure,Capital,Social Development,Humanitarian,New Investment,False,201703287645
+2026,NGN,221a,CODE OF CONDUCT BUREAU,PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,9274196706
+2026,NGN,221b,CODE OF CONDUCT TRIBUNAL,PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,423926103
+2026,NGN,221c,FEDERAL CHARACTER COMMISSION,PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,409042108
+2026,NGN,221d,FEDERAL CIVIL SERVICE COMMISSION,PART M,Capital Expenditure,Capital,Governance & Justice,Civil Service,New Investment,False,509544220
+2026,NGN,221e,POLICE SERVICE COMMISSION,PART M,Capital Expenditure,Capital,Security & Defence,Police,New Investment,False,414315904
+2026,NGN,221f,"REVENUE MOBILIZATION, ALLOCATION, AND FISCAL COMMISSION",PART M,Capital Expenditure,Capital,Governance & Justice,Accountability Bodies,New Investment,False,641284627
+2026,NGN,227,GOVERNMENT-OWNED ENTERPRISES - CAPITAL,PART M,Capital Expenditure,Capital,Economic Development,Government Enterprises,New Investment,False,2961260184710
+2026,NGN,228,DEVELOPMENT LEVY - CAPITAL,PART M,Capital Expenditure,Capital,Economic Development,Development Levy,New Investment,False,1804541918453
+2026,NGN,229,COMMS/DIGITAL ECONOMY - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Economic Development,ICT,Loan-Funded,False,30000000000
+2026,NGN,230,AGRICULTURE - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Economic Development,Agriculture & Livestock,Loan-Funded,False,168126816765
+2026,NGN,231,WOMEN AFFAIRS - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Social Development,Women Affairs,Loan-Funded,False,107175000000
+2026,NGN,232,EDUCATION - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Education,Education,Loan-Funded,False,30644312730
+2026,NGN,233,ENVIRONMENT - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Infrastructure,Environment,Loan-Funded,False,45000000000
+2026,NGN,234,FINANCE - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Governance & Justice,Finance,Loan-Funded,False,182288976645
+2026,NGN,235,BUDGET AND ECONOMIC PLANNING - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Governance & Justice,Budget & Planning,Loan-Funded,False,381052069410
+2026,NGN,236,HEALTH - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Health,Health & Social Welfare,Loan-Funded,True,25896462000
+2026,NGN,237,POWER - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Infrastructure,Power & Energy,Loan-Funded,False,686710616937
+2026,NGN,238,WATER RESOURCES - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Infrastructure,Water & Sanitation,Loan-Funded,False,24118500360
+2026,NGN,239,WORKS - LOAN FUNDED,PART M,Capital Expenditure - Loan Funded,Capital,Infrastructure,Works,Loan-Funded,False,367902737115
+2026,NGN,240,FGN SPECIAL INTERVENTION: SOCIAL HOUSING (FAMILY HOMES FUND),PART M,Capital Supplementation,Capital,Social Development,Housing,New Investment,False,14000000000
+2026,NGN,241,NIGERIA YOUTH INVESTMENT FUND,PART M,Capital Supplementation,Capital,Social Development,Youth,New Investment,False,25000000000
+2026,NGN,242,COUNTERPART FUNDING FOR DONOR SUPPORTED PROGRAMMES,PART M,Capital Supplementation,Capital,Governance & Justice,International Obligations,New Investment,False,7416508000
+2026,NGN,243,PROVISION FOR 2024 OUTSTANDING CONTRACTORS LIABILITIES,PART M,Capital Supplementation,Capital,Infrastructure,Contractor Liabilities,Carryover Obligation,False,1700000000000
+2026,NGN,244,PAYMENT OF LOCAL CONTRACTORS DEBTS/OTHER LIABILITIES,PART M,Capital Supplementation,Capital,Infrastructure,Contractor Liabilities,Carryover Obligation,False,100000000000
+2026,NGN,245,GALAXY BACKBONE,PART M,Capital Supplementation,Capital,Economic Development,ICT,New Investment,False,10000000000
+2026,NGN,246,IPPIS CAPITAL - PAYROLL,PART M,Capital Supplementation,Capital,Governance & Justice,ICT Systems,New Investment,False,1500000000
+2026,NGN,247,OSSAP - SDGs: SDG PROJECTS,PART M,Capital Supplementation,Capital,Social Development,SDGs,New Investment,False,67021087924
+2026,NGN,248,ZONAL INTERVENTION PROJECTS,PART M,Capital Supplementation,Capital,Infrastructure,Zonal Projects,New Investment,False,100000000000
+2026,NGN,249,FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD,PART M,Capital Supplementation,Capital,Social Development,Housing,New Investment,False,2500000000
+2026,NGN,250,SUBSCRIPTION TO SHARES IN INTERNATIONAL ORGANISATIONS,PART M,Capital Supplementation,Capital,Governance & Justice,International Obligations,Carryover Obligation,False,30000000000
+2026,NGN,251,NATIONAL DEVELOPMENT PLANS (FMBEP),PART M,Capital Supplementation,Capital,Governance & Justice,Budget & Planning,New Investment,False,1500000000
+2026,NGN,252,CONTINGENCY (CAPITAL),PART M,Capital Supplementation,Capital,Governance & Justice,Contingency,New Investment,False,200000000000
+2026,NGN,253,AID AND GRANTS FUNDED PROJECTS,PART M,Capital Supplementation,Capital,Governance & Justice,Aid & Grants,Loan-Funded,False,1367151828000
+2026,NGN,254,NAF OUTSTANDING HELICOPTER OBLIGATIONS,PART M,Capital Supplementation,Capital,Security & Defence,Defence Equipment,Carryover Obligation,False,110305719176
+2026,NGN,255,PRESIDENTIAL ENABLING BUSINESS ENVIRONMENT COUNCIL (PEBEC),PART M,Capital Supplementation,Capital,Economic Development,Business Environment,New Investment,False,1000000000
+2026,NGN,256,PRESIDENTIAL WOMENS HEALTH TRANSFORMATION INITIATIVE (CAPITAL),PART M,Capital Supplementation,Capital,Health,Womens Health,New Investment,True,4460000000
+2026,NGN,257,"DOMESTIC COFINANCING FOR HIV/AIDS, TB AND MALARIA RESPONSE",PART M,Capital Supplementation,Capital,Health,Disease Control,New Investment,True,22680000000
+2026,NGN,258,REFUND OF BORROWED FUNDS FROM EDUCATION TAX POOL (TETFUND),PART M,Capital Supplementation,Capital,Education,TETFund Repayment,Carryover Obligation,False,12899000000
+2026,NGN,259,TRANSFER TO HYPPADEC,PART M,Capital Supplementation,Capital,Regional Development,Niger Delta,New Investment,False,3000000000
+2026,NGN,260,NATIONAL POVERTY REDUCTION WITH GROWTH STRATEGY - CAPITAL,PART M,Capital Supplementation,Capital,Social Development,Poverty Reduction,New Investment,False,150000000000
+2026,NGN,261,RECAPITALISATION OF MINISTRY OF FINANCE INCORPORATED (MOFI),PART M,Capital Supplementation,Capital,Governance & Justice,Finance,New Investment,False,20000000000
+2026,NGN,262,GIFMIS CAPITAL,PART M,Capital Supplementation,Capital,Governance & Justice,ICT Systems,New Investment,False,15258825876
+2026,NGN,263,OFFICE OF SPECIAL ADVISER ON POLICY AND COORDINATION,PART M,Capital Supplementation,Capital,Governance & Justice,Policy Coordination,New Investment,False,1000000000
+2026,NGN,264,PRESIDENTIAL COMMITTEE ON HEALTH SECTOR REFORM,PART M,Capital Supplementation,Capital,Health,Health Reform,New Investment,True,500000000
+2026,NGN,265,NATIONAL SOCIAL INVESTMENT PROGRAMME AGENCY - CAPITAL,PART M,Capital Supplementation,Capital,Social Development,Social Investment,New Investment,False,2000000000
+2026,NGN,266,CONSUMER CREDIT FUND,PART M,Capital Supplementation,Capital,Economic Development,Credit & Finance,New Investment,False,80000000000
+2026,NGN,267,INFRASTRUCTURE PROJECT PREPARATION FUND (FMBEP),PART M,Capital Supplementation,Capital,Infrastructure,Project Preparation,New Investment,False,21000000000
+2026,NGN,268,MORTGAGE DEVELOPMENT/PROMOTION FUND,PART M,Capital Supplementation,Capital,Social Development,Housing,New Investment,False,65000000000
+2026,NGN,269,OFFICE OF PRESIDENTIAL ADVISER ON ENERGY,PART M,Capital Supplementation,Capital,Infrastructure,Power & Energy,New Investment,False,1000000000
+2026,NGN,270,"CLEAN ENERGY TRANSITION INITIATIVES (CNG, ELECTRIC VEHICLES)",PART M,Capital Supplementation,Capital,Infrastructure,Power & Energy,New Investment,False,80000000000
+2026,NGN,271,NIGERIA INTELLIGENCE AGENCY (NIA) HOSPITAL,PART M,Capital Supplementation,Capital,Health,Intelligence Health Facility,New Investment,True,208049108010
+2026,NGN,272,FEDERAL INLAND REVENUE SERVICE (FIRS) BUILDING,PART M,Capital Supplementation,Capital,Governance & Justice,Finance,New Investment,False,50000000000
+2026,NGN,273,PRESIDENTIAL REVENUE MONITORING COMMITTEE - CAPITAL,PART M,Capital Supplementation,Capital,Governance & Justice,Revenue Monitoring,New Investment,False,280000000
+2026,NGN,274,NIGERIA GROWTH INVESTMENT FUND,PART M,Capital Supplementation,Capital,Economic Development,Investment Fund,New Investment,False,100000000000
+2026,NGN,275,NIGERIA DEVELOPMENT FINANCE CORPORATION,PART M,Capital Supplementation,Capital,Economic Development,Credit & Finance,New Investment,False,100000000000
+2026,NGN,276,ECONOMIC TRANSFORMATION FINANCE PROGRAMME,PART M,Capital Supplementation,Capital,Economic Development,Credit & Finance,New Investment,False,100000000000
+2026,NGN,277,CAPITALISATION OF INFRACO,PART M,Capital Supplementation,Capital,Infrastructure,Infrastructure Corp,New Investment,False,20000000000
+2026,NGN,278,SAFE SCHOOL INITIATIVE,PART M,Capital Supplementation,Capital,Education,Education Safety,New Investment,False,5000000000
+2026,NGN,279,NEW MDAs TAKE-OFF GRANT (CAPITAL) - HEALTH AND EDUCATION,PART M,Capital Supplementation,Capital,Health,New MDAs Health,New Investment,True,19500000000
+2026,NGN,280,PRESIDENTIAL AIR FLEET LOGISTICS AND NATIONAL FOREST GUARD,PART M,Capital Supplementation,Capital,Security & Defence,Presidential Fleet,Carryover Obligation,False,283850000000
+2026,NGN,FIN-O,DEBT FINANCING (DOMESTIC & FOREIGN BORROWING),PART O,Financing Items,Financing,Financing,Debt Financing,,False,23035240017989
+2026,NGN,FIN-P,ASSET SALES / PRIVATIZATION,PART P,Financing Items,Financing,Financing,Asset Sales,,False,189156395258
+2026,NGN,FIN-Q,MULTILATERAL/BILATERAL PROJECT-TIED LOANS,PART Q,Financing Items,Financing,Financing,Project-Tied Loans,,False,2048915491962
