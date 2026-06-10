@@ -234,14 +234,11 @@ See full views in `sql/nigeria_budget_2026_views.sql` (757 lines, 16 views).
 
 ### SQL
 - `sql/nigerian_federal_budget.sql` — Original ad-hoc queries
-- `sql/nigeria_budget_2026_views.sql` — 16 production views (757 lines)
 
 ### Analysis & Documentation
-- `analysis/data_cleaning_notes.md` — Every cleaning decision with justification
 - `analysis/analytical_questions.md` — The 3 questions, methodology, detailed findings
 - `documentation/nigeria_budget_2026_full_report.docx` — Full technical report (16 pages)
-- `documentation/data_dictionary.md` — Column-by-column reference
-- `documentation/methodology.md` — Data extraction, cleaning, and analysis workflow
+
 
 ### Visualizations
 - `visuals/page_1_deficit_debt_burden.png` — Dashboard page 1 screenshot
